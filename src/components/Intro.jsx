@@ -15,14 +15,23 @@ export default function Intro() {
         />
 
         <div className="my-auto text-center md:text-left">
-          <h1 className="text-4xl font-bold mb-3">Mandy Hartman</h1>
+          <h1 className="text-4xl font-bold mb-3">Amanda Hartman</h1>
           <h3 className="text-xl font-semibold ">
-            React Developer @{" "}
+            React/ Remix Developer @{" "}
             <a
               href="https://www.visualarchives.org"
               className="text-violet-200 hover:text-violet-300"
             >
               Visual Archives
+            </a>
+          </h3>
+          <h3 className="text-xl font-semibold ">
+            Software Developer III @{" "}
+            <a
+              href="https://jenzabar.com/"
+              className="text-violet-200 hover:text-violet-300"
+            >
+              Jenzabar
             </a>
           </h3>
           <p className="max-w-sm">
