@@ -40,7 +40,7 @@ export default function Intro() {
             <a href="https://www.twitter.com/hartmandyyy">
               <img src={twitter} alt="Twitter" className="w-[30px] mr-4" />
             </a>
-            <a href="mailto:AmandaHartman@VisualArchives.org">
+            <a href="mailto:blackmountainarchives@gmail.com">
               <img src={email} alt="Email" className="w-[35px]" />
             </a>
           </span>

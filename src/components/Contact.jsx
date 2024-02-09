@@ -9,7 +9,7 @@ export default function Contact() {
       </p>
 
       <a
-        href="mailto:amandahartman@visualarchives.org"
+        href="mailto:blackmountainarchives@gmail.com"
         className="inline-block px-6 py-2 text-white font-semibold rounded-md bg-violet-300"
       >
         Send an Email
